@@ -185,4 +185,4 @@ pip install pillow piexif numpy tqdm pandas
 
 ---
 
-*最后更新：2025年1月*
+*最后更新：2025年9月*
