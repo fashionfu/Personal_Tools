@@ -27,8 +27,8 @@ graph TD
     J --> K[生成稀疏点云]
     end
     
-    K --> L[2. 点云与网格]
-    L --> M[3. 正射影像 (DSM/Orthomosaic)]
+    K --> L["2. 点云与网格"]
+    L --> M["3. 正射影像 (DSM/Orthomosaic)"]
 ```
 
 ## 3. 关键技术点
